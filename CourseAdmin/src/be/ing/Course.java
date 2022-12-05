@@ -5,7 +5,7 @@ public class Course {
     private int numberOfDays;
     private double pricePerDay;
 
-
+    //c
     Course(String title, int numberOfDays, double pricePerDay) {
         this.title = title;
         this.numberOfDays = numberOfDays;
